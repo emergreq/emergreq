@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Karina
 
 🎓 Student at **NUST MISIS**, majoring in *Computer Science*.  
 🔍 Aspiring **Data Analyst**, passionate about uncovering insights in data and building clear analytical solutions.
@@ -37,4 +37,4 @@
 
 ## 📫 Contact
 
-📧 Email: [dcidsgr882@gmail.com]
+📧 Email: dcidsgr882@gmail.com
