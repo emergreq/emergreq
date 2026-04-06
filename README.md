@@ -1,40 +1,40 @@
-# 👋 Hi, I'm Karina
+# 👋 Привет, я Карина
 
-🎓 Student at **NUST MISIS**, majoring in *Computer Science*.  
-🔍 Aspiring **Data Analyst**, passionate about uncovering insights in data and building clear analytical solutions.
-
----
-
-## 🛠️ Tech Stack
-
-| Tool | Skills |
-|------|--------|
-| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PySpark |
-| **SQL** | JOINs, aggregate functions, subqueries, window functions |
-| **Excel** | Pivot tables, Power Query, advanced formulas |
-| **Visualization** | Matplotlib, Seaborn, Jupyter Notebook |
-| **Other** | Git, statistics basics, Exploratory Data Analysis (EDA) |
+🎓 Студентка **НИТУ МИСИС**, направление *Информатика и вычислительная техника*.  
+🔍 Начинающий Дата-аналитик
 
 ---
 
-## 📁 Projects
+## 🛠️ Стек технологий
 
-### 🛒 Retail Sales Analysis (Superstore Dataset)
-[Repository](link_to_repo) | [Jupyter Notebook](link_to_notebook)
-
-**Goal:** Analyze sales data to identify key factors affecting profitability.
-
-**What I did:**
-- Conducted EDA: initial data inspection, missing values check, statistical summary.
-- Identified the most profitable categories (Technology) and loss-making ones (Furniture).
-- Found a correlation between high discounts (>30%) and negative profit.
-- Built monthly sales trends — peak in November–December, decline in January.
-- Visualized regional differences (West and East are sales leaders).
-
-**Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter Notebook`
+| Инструмент | Навыки |
+|------------|--------|
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **SQL** | JOINs, агрегатные функции, подзапросы, оконные функции |
+| **Excel** | Сводные таблицы, Power Query, сложные формулы |
+| **Визуализация** | Matplotlib, Seaborn, Jupyter Notebook |
+| **Другое** | Git, основы статистики, EDA |
 
 ---
 
-## 📫 Contact
+## Проекты
 
-📧 Email: dcidsgr882@gmail.com
+### Предсказание оттока клиентов (Telco Dataset)
+[Репозиторий](https://github.com/emergreq/customer-churn-prediction) | [Ноутбук](в разработке...)
+
+**Цель:** Предсказать, какие клиенты телеком-оператора уйдут в ближайший месяц, и выявить ключевые факторы оттока.
+
+**Что сделано:**
+- Провела разведочный анализ (EDA): проверила 7 043 клиента и 21 признак, проанализировала пропуски и выбросы.
+- Выявила главные драйверы оттока: клиенты с помесячным контрактом уходят в **3 раза чаще**, чем с годовым.
+- Обнаружила, что клиенты со сроком обслуживания <12 месяцев — группа высокого риска.
+- Построила визуализации: корреляция между типом интернета, наличием защиты и вероятностью оттока.
+- Подготовила очищенный датасет и инсайты для обучения ML-моделей.
+
+**Стек:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter Notebook`
+
+---
+
+## 📬 Контакты
+
+📧 Email: dcidsgr882@gmail.com  
