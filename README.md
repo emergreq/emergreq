@@ -10,7 +10,6 @@ Junior Machine Learning Engineer | Computer Vision Specialist
 | Категория | Инструменты и компетенции |
 |------------|--------|
 | **Deep Learning & CV** | PyTorch, Torchvision, Transfer Learning (ResNet), Pillow |
-| **Математический аппарат** | Multivariable calculus, vector analysis (включая теоремы Гаусса и Стокса), статистика |
 | **Python & Данные** | NumPy, Pandas, Matplotlib, tqdm |
 | **Инфраструктура** | Yandex DataSphere, GPU (CUDA), Git, Linux CLI |
 | **Классический ML** | Scikit-learn, EDA, архитектура пайплайнов данных |
