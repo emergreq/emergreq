@@ -20,7 +20,7 @@ Junior Machine Learning Engineer | Computer Vision Specialist
 ## Проекты
 
 ### Классификация изображений: Real vs AI
-[Репозиторий](https://github.com/emergreq/real-vs-ai-classifier) | [Скачать веса модели](https://disk.yandex.ru/d/NqtbqYHHL9QC4g)
+[Репозиторий](https://github.com/emergreq/ai-image-detector) | [Скачать веса модели](https://disk.yandex.ru/d/NqtbqYHHL9QC4g)
 
 **Цель:** Разработать сверточную нейросеть для точной классификации изображений на настоящие фотографии и арт, сгенерированный нейросетями (Midjourney, DALL-E, Stable Diffusion).
 
